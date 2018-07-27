@@ -6,8 +6,8 @@ class Dog
 end
   
   fido = Dog.new
-  snoopy = Dog.name
-  lassie = Dog.name
+  snoopy = Dog.new
+  lassie = Dog.new
 end
 
   puts "Dog's name is #{name}."
