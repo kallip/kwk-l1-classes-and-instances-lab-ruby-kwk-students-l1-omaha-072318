@@ -8,4 +8,4 @@ name = Dog.new
   lassie = Dog.name
 end
 
-  
+  puts "Dog's name is #{name}."
