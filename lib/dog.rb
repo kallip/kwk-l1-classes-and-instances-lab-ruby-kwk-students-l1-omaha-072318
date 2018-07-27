@@ -2,6 +2,9 @@
 class Dog
     def initialize (name)
     @name = name
+  end
+end
+  
   attr_accessor :name
 end 
 name = Dog.new
