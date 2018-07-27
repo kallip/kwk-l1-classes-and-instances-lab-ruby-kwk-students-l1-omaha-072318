@@ -1,6 +1,7 @@
 # dog.rb
 class Dog
-  
+    def initialize (name)
+    @name = name
   attr_accessor :name
 end 
 name = Dog.new
