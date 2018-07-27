@@ -1,7 +1,7 @@
 # dog.rb
 class Dog
-end
   attr_accessor :name
+end 
   def initialize (name)
   fido = Dog.name
   snoopy = Dog.name
