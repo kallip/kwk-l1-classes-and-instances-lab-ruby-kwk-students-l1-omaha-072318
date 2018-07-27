@@ -5,10 +5,7 @@ class Dog
   end
 end
   
-  attr_accessor :name
-end 
-name = Dog.new
-  fido = Dog.name
+  fido = Dog.new
   snoopy = Dog.name
   lassie = Dog.name
 end
